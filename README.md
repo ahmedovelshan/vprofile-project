@@ -1,3 +1,7 @@
+LINK:
+https://medium.com/@samuelnnanna71/continuous-integration-using-jenkins-nexus-sonarqube-and-slack-f1d43379dda9
+https://medium.com/devops-dev/continuous-integration-using-jenkins-nexus-sonarqube-and-slack-89a257cb73a8
+
 # Prerequisites
 #
 - JDK 11
